@@ -1,0 +1,108 @@
+.biggest{
+	color:grey;
+	text-decoration:none;
+}
+.head{
+	width:60%;
+	height:150px;
+	margin:5px 240px;
+}
+.logo{
+	float:left;
+	margin:0px;
+}
+.search{
+	float:right;
+	margin-top:50px;
+}
+.searchone{
+	float:left;}
+a{
+	text-decoration:none;
+	color:white;
+	height:30px;
+	width:100%;
+	font-family:"仿宋";
+	font-size:20px;
+}
+a:hover{
+	text-decoration:underline;
+}
+h3{
+	font-family:"仿宋";
+	font-size:20px;
+}
+h3:hover{
+	text-decoration:underline;
+}
+.top{
+	width:60%;
+	height:300px;
+	margin:0px 200px;
+	padding:0px;
+}
+.rightone{
+	margin-top:20px;
+}
+.leftone{
+	float:left;
+	width:20%;
+	height:200px;
+	padding:0px;
+}
+.zuoxia{
+	font-size:16px;
+	font-family:"仿宋";
+	font-weight:bolder;
+}
+.rightone{
+	float:right;
+	width:40%;
+	height:200px;
+	padding:0px;
+}
+.bottom{
+	width:100%;
+	height:300px;
+	margin:0px;
+}
+.one{
+	float:left;
+	width:25%;
+}
+.onebottomright{
+	font-size:16px;
+	font-family:"仿宋";
+	font-weight:bolder;
+}
+.two{
+	float:left;
+	width:25%;
+}
+.twobottomright{
+	font-size:16px;
+	font-family:"仿宋";
+	font-weight:bolder;
+}
+.three{
+	float:left;
+	width:25%;
+}
+.threebottomright{
+	font-size:16px;
+	font-family:"仿宋";
+	font-weight:bolder;
+}
+.four{
+	float:left;
+	width:25%;
+}
+.fourbottomright{
+	font-size:16px;
+	font-family:"仿宋";
+	font-weight:bolder;
+}
+.foot{
+	color:black;
+	width:100%;
+}
