@@ -1,0 +1,19 @@
+.image{
+	float:left;
+	padding:10px;
+	margin:3px;
+	border:1px solid #ccc;
+	opacity:0.5;
+}
+.image:hover{
+	opacity:1;
+	border:1px solid #333333;
+}
+.desc{
+	text-align:center;
+	font-family:"仿宋";
+	font-size:18px;
+	color:grey;
+	font-weight:bolder;
+	height:16px;
+}
